@@ -38,7 +38,8 @@ export class Tab1Page {
      .catch(err => {
        console.log('Error', err);
 
-       this.dataLocalSrv.guardarRegistro( 'QRCode', 'https://sicinet.es' );
+      //  this.dataLocalSrv.guardarRegistro( 'QRCode', 'https://sicinet.es' );
+       this.dataLocalSrv.guardarRegistro( 'QRCode', 'geo:37.62289847551247,-4.30931940516361' );
 
      });
   }

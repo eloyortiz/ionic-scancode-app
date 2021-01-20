@@ -28,14 +28,14 @@ export class Registro {
                 this.icon = 'globe';
             break;
 
-            case 'geo':
+            case 'geo:':
                 this.type = 'geo';
-                this.icon = 'pin';
+                this.icon = 'location-outline';
             break;
 
             default:
                 this.type = 'No reconocido';
-                this.icon = 'create';
+                this.icon = 'create-outline';
             break;
         }
             

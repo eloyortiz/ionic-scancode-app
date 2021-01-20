@@ -12,7 +12,7 @@ export class Tab2Page {
   constructor( public dataLocalSrv: DataLocalService ) {}
 
   enviarCorreo(){
-    console.log('enviar correo');
+    this.dataLocalSrv.enviarCorreo();
   }
 
   abrirRegistro( registro: Registro ){
