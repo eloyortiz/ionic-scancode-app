@@ -45,7 +45,7 @@
     "@types/node": "^25.5.0",
     "codelyzer": "^0.0.28",
     "cordova-android": "^9.0.0",
-    "cordova-plugin-device": "^2.0.2",
+    "cordova-plugin-device": "^3.0.0",
     "cordova-plugin-email-composer": "^0.9.2",
     "cordova-plugin-file": "^6.0.2",
     "cordova-plugin-inappbrowser": "^4.1.0",
