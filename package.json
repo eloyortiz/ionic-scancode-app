@@ -43,7 +43,7 @@
     "@types/jasmine": "~6.0.0",
     "@types/jasminewd2": "~2.0.3",
     "@types/node": "^25.5.0",
-    "codelyzer": "^0.0.28",
+    "codelyzer": "^6.0.2",
     "cordova-android": "^15.0.0",
     "cordova-plugin-device": "^3.0.0",
     "cordova-plugin-email-composer": "^0.10.1",
