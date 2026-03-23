@@ -65,7 +65,7 @@
     "phonegap-plugin-barcodescanner": "^8.1.0",
     "ts-node": "~10.9.2",
     "tslint": "~6.1.0",
-    "typescript": "^5.9.3"
+    "typescript": "^6.0.2"
   },
   "description": "An Ionic project",
   "overrides": {
