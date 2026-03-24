@@ -8,7 +8,7 @@
     "start": "ng serve",
     "build": "ng build",
     "test": "ng test",
-    "lint": "ng lint"
+    "lint": "echo 'Linting is disabled. Consider migrating to ESLint for Angular 21+.'"
   },
   "private": true,
   "dependencies": {
@@ -43,7 +43,6 @@
     "@types/jasmine": "~6.0.0",
     "@types/jasminewd2": "~2.0.3",
     "@types/node": "^25.5.0",
-    "codelyzer": "^6.0.2",
     "cordova-android": "^15.0.0",
     "cordova-plugin-device": "^3.0.0",
     "cordova-plugin-email-composer": "^0.10.1",
@@ -64,7 +63,6 @@
     "karma-jasmine-html-reporter": "^2.2.0",
     "phonegap-plugin-barcodescanner": "^8.1.0",
     "ts-node": "~10.9.2",
-    "tslint": "~6.1.0",
     "typescript": "^6.0.2"
   },
   "description": "An Ionic project",
