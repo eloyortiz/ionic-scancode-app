@@ -12,7 +12,7 @@
   },
   "private": true,
   "dependencies": {
-    "@angular-devkit/architect": "^0.2102.13",
+    "@angular-devkit/architect": "^0.2200.0",
     "@angular-devkit/schematics": "^21.2.13",
     "@angular/common": "^21.2.14",
     "@angular/core": "^21.2.14",
