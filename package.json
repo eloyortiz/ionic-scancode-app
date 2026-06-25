@@ -19,7 +19,7 @@
     "@angular/forms": "^22.0.2",
     "@angular/platform-browser": "^22.0.3",
     "@angular/platform-browser-dynamic": "^22.0.3",
-    "@angular/router": "^22.0.2",
+    "@angular/router": "^22.0.3",
     "@ionic-native/barcode-scanner": "^5.30.0",
     "@ionic-native/core": "^5.30.0",
     "@ionic-native/email-composer": "^5.30.0",
