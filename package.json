@@ -13,7 +13,7 @@
   "private": true,
   "dependencies": {
     "@angular-devkit/architect": "^0.2200.5",
-    "@angular-devkit/schematics": "^22.0.0",
+    "@angular-devkit/schematics": "^22.0.5",
     "@angular/common": "^22.0.4",
     "@angular/core": "^22.0.4",
     "@angular/forms": "^22.0.4",
