@@ -14,7 +14,7 @@
   "dependencies": {
     "@angular-devkit/architect": "^0.2200.9",
     "@angular-devkit/schematics": "^22.1.2",
-    "@angular/common": "^22.0.5",
+    "@angular/common": "^22.1.0",
     "@angular/core": "^22.0.7",
     "@angular/forms": "^22.0.8",
     "@angular/platform-browser": "^22.0.8",
