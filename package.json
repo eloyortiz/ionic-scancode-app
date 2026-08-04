@@ -15,7 +15,7 @@
     "@angular-devkit/architect": "^0.2201.2",
     "@angular-devkit/schematics": "^22.1.2",
     "@angular/common": "^22.1.0",
-    "@angular/core": "^22.0.7",
+    "@angular/core": "^22.1.0",
     "@angular/forms": "^22.1.0",
     "@angular/platform-browser": "^22.1.0",
     "@angular/platform-browser-dynamic": "^22.0.8",
